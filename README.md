@@ -12,3 +12,42 @@ click on 'manage extentions' <img width="1408" height="768" alt="image" src="htt
 go to 'extrack extention' and select the extracted zip file <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/b6934cec-1b3c-4e30-8fe1-466ac5304fdf" />
 now you see your chrome xtention right above your screen <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/de04f5cd-59e6-4e18-a1c3-b24aae8dac2c" />
 ENJOY!!!
+
+
+
+HOW TO CUSTIMIZE YOUR SHIELDKID EXPERIENCE
+
+click on the chrome extention right above <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/0795e69f-4c2a-4894-9114-8bd2ddf335ee" />
+then costumize your experience with these options:
+LOCATION: this is a vpn but is stil in the works and will come out soon
+
+BLOCKING
+
+1. ads, this changes the normal pop ups you see on websites this is different on platforms as youtube and tiktok
+2. Youtube ads, this is ad blocking for platforms like youtube, tiktok instagram and more
+3. trackers, this is security so no websites track you o film you (this is not for cookies)
+4. Malicious domains, this blocks or secures you even more when you come on suspicious domains or domains with bad revieuws or security
+
+SECURITY
+
+5. phisching warnings, this cheks so no website has input on your system
+6. safe downloads, this secures your downloads by cheking wats in the file and warns you if it is suspicius (extra carefull on suspisius websites)
+7. strickt download cheks (keep this of if you dont want to get a lot of messages), cheks and secures you for the .exe files on your computer
+8. force HTTPS, makes your ip adress and location super secure
+
+SYTE INFO
+
+9. syte ratings, gives you the ratings from: trustpilot (works but will be updated for better results), google reviews and sitejabber ( also known as smartcostumer)
+10. rating in tab title (for normal web titles turn of), shows the rating of the website in the title of the website tab
+
+SEARCH
+
+11. strickt safe search, detects your content and secures you from weird things
+
+PRIVACY
+
+12. clean links, secures you better when theres a suspicious domain name
+13. privacy signals, secures your location and your browser with global security progarms
+14. stop ip leaks, gives you anhother ip adress so nothing can track you
+
+BUGS/functions THAT WILL BE FIXT
