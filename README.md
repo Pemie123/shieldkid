@@ -15,6 +15,13 @@ go to 'extrack extention' and select the extracted zip file <img width="1408" he
 now you see your chrome xtention right above your screen <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/de04f5cd-59e6-4e18-a1c3-b24aae8dac2c" />
 ENJOY!!!
 
+HOW TO UPDATE TO A NEWER VERSION OF SHIELDKID
+download the new zip file in releases on the github page
+go to files and dubble click on the unpacked shieldkid extention <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bf28dd30-cdf0-4a12-8837-d033efc717bf" />
+go to chrome://extentions adn set on develepor mode <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/3a7500be-02a2-4fe1-89f0-8d9e4925f320" />
+click on the refresh icon on the extention <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/380608de-5bbd-44f4-8509-a2aca373d5f7" />
+
+ITS UPDATED!!!
 
 
 HOW TO CUSTIMIZE YOUR SHIELDKID EXPERIENCE
